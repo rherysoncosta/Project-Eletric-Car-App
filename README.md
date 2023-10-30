@@ -1,2 +1,2 @@
 # Project-Eletric-Car-App
-Repositório criado para o desafios de projeto da Formação em Android Developer da DIO.
+Repositório criado para o desafio de projeto da Formação em Android Developer da DIO.
